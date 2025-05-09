@@ -1,0 +1,25 @@
+.italic {
+    font-style: italic;
+  }
+  .negrita {
+    font-weight: bold;
+  }.subrayado {
+    text-decoration: underline;
+  }
+  .titulo {
+    color: #8d00ac;
+  }
+  .footer {
+    background-color: #727070;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 10px;
+    line-height: 10px;
+  }
+  a {
+    color: white;
+  }
+  .mover {
+    margin-left: 50px;
+  }
